@@ -3,7 +3,7 @@
 Interactive dashboard for exploring the System Equivalent Flux Density (SEFD)
 of SKA-Low stations.
 
-![screenshot.jpg](https://github.com/ska-sci-ops/ska-low-sefd-app/raw/master/docs/screenshot.jpg)
+![screenshot.jpg](https://github.com/ska-sci-ops/ska-low-sefd-app/raw/main/screenshot.jpg)
 
 ## Setup
 
